@@ -1,0 +1,6 @@
+{
+  "name": "Indian Air Force - Aircraft Inventory 2026",
+  "description": "Comprehensive reference portal for the Indian Air Force aircraft inventory in 2026, featuring verified technical specifications, procurement costs, fleet estimates, and high-resolution aircraft photography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
